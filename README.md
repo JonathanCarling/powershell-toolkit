@@ -16,7 +16,7 @@ Whether you're validating files, flattening directories, backing up data, or aut
 Clone the repo:
 
 ```powershell
-git clone https://github.com/<your-username>/powershell-toolkit
+git clone https://github.com/JonathanCarling/powershell-toolkit
 cd powershell-toolkit
 ```
 
