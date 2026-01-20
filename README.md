@@ -11,8 +11,6 @@ Every script in this toolkit follows the same philosophy:
 
 Whether you're validating files, flattening directories, backing up data, or automating system tasks, this toolkit aims to be your reliable multi‑tool.
 
----
-
 ## 🚀 Getting Started
 
 Clone the repo:
@@ -21,8 +19,6 @@ Clone the repo:
 git clone https://github.com/<your-username>/powershell-toolkit
 cd powershell-toolkit
 ```
-
----
 
 ## 🧩 Philosophy
 
